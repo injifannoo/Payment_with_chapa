@@ -1,4 +1,4 @@
-# hellobalemoya_app
+# payment_method_app
 
 A new Flutter project.
 
