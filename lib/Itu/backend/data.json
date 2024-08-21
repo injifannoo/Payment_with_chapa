@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "email": "user1@gmail.com",
+      "phoneNumber": "0912345678",
+      "walletBalance": 1000.0,
+      "transactions": [
+        {
+          "transactionId": "txn_123",
+          "amount": 200.0,
+          "type": "deposit",
+          "timestamp": "2024-08-19T16:31:24.122Z"
+        }
+      ]
+    },
+    {
+      "email": "owner@gmail.com",
+      "phoneNumber": "0987654321",
+      "walletBalance": 5000.0,
+      "transactions": []
+    }
+  ]
+}
